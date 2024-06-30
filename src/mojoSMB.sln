@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mojoSMB.Web", "mojoSMB.Web\mojoSMB.Web.csproj", "{F4CA52F6-2C46-479F-A91F-F845C279742E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mojoSMB.Api", "mojoSMB.Api\mojoSMB.Api.csproj", "{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CA52F6-2C46-479F-A91F-F845C279742E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CA52F6-2C46-479F-A91F-F845C279742E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CA52F6-2C46-479F-A91F-F845C279742E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CA52F6-2C46-479F-A91F-F845C279742E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
