@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mojoSMB.Web", "mojoSMB.Web\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mojoSMB.Api", "mojoSMB.Api\mojoSMB.Api.csproj", "{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mojoSMB.AppHost", "mojoSMB.Aspire\mojoSMB.AppHost\mojoSMB.AppHost.csproj", "{0A35F985-597A-417B-A885-3DE4BD932D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mojoSMB.ServiceDefaults", "mojoSMB.Aspire\mojoSMB.ServiceDefaults\mojoSMB.ServiceDefaults.csproj", "{C23E7994-C0A9-4DC7-BE81-DBEEB6D37450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8885BE1F-9C66-41C5-AB6E-D73CC55B1F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A35F985-597A-417B-A885-3DE4BD932D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A35F985-597A-417B-A885-3DE4BD932D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A35F985-597A-417B-A885-3DE4BD932D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A35F985-597A-417B-A885-3DE4BD932D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23E7994-C0A9-4DC7-BE81-DBEEB6D37450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23E7994-C0A9-4DC7-BE81-DBEEB6D37450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23E7994-C0A9-4DC7-BE81-DBEEB6D37450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23E7994-C0A9-4DC7-BE81-DBEEB6D37450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
